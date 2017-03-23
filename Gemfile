@@ -13,6 +13,7 @@ gem 'paperclip', '~>5.0.0'
 gem 'faker'
 gem 'simple_form'
 gem 'devise'
+gem 'rails_admin', '~> 1.1.1'
 
 group :development, :test do
   gem 'pry-byebug'
